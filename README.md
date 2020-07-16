@@ -1,5 +1,5 @@
 # marvel_dc
-## Projeto desenvolvido  com o objetivo de cadastrar, listar, editar e excluir dados, usando HTML, CSS e a tecnologia Bootstrap, feito também no Sublime Text e alimentado com o banco de dados MYSQL.
+## Projeto desenvolvido  com o objetivo de cadastrar, listar, editar e excluir dados, usando HTML, CSS e a tecnologia Bootstrap, feito também no Sublime Text e alimentado com o banco de dados MYSQL. Tendo também um Login completo, desenvolvido em HTML, CSS e PHP, tudo isso usando a estrutura MVC.
 
 ![marvel_dc](https://github.com/Favero84/marvel_dc/blob/master/fotos_projeto/Login.png)
 
